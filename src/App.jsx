@@ -1,6 +1,7 @@
 import React from 'react'
 import InputEmail from './components/InputEmail/InputEmail'
 import InputPassword from './components/Inputpassword/inputPassword'
+import './components/animacao/formulario.css'
 import './App.css'
 
 function handleClick(event) {
